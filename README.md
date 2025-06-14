@@ -1,1 +1,1 @@
-# calculator-password-generator
+# password-generator
